@@ -1,0 +1,6 @@
+{
+  "name": "Bloom & Bower Florist",
+  "description": "Artisanal floral boutique offering fresh seasonal bouquets, botanical arrangements, and seamless checkout with same-day hand delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
