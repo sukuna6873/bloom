@@ -26,7 +26,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onNavigateSection }) => {
           onClick={(e) => { e.preventDefault(); handleNavClick('top'); }}
           className="font-serif text-2xl sm:text-3xl font-medium tracking-tight text-[#1c241f] hover:text-[#415d43] transition-colors"
         >
-          Bloom & Bower
+          Bloom
         </a>
 
         {/* Zone 2: 4-6 clean text navigation links */}
